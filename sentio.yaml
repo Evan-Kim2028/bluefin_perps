@@ -1,0 +1,5 @@
+project: bluefin_perps
+contracts:
+  - chain: sui_mainnet
+    address: "0xcb4e1ee2a3d6323c70e7b06a8638de6736982cbdc08317d33e6f098747e2b438"
+    name: bluefin_perp
